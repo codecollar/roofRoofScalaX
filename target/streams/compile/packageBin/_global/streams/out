@@ -1,21 +1,9 @@
-[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/wishmbp/dev/mfec/target/scala-2.13/mfec_2.13-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/wishmbp/dev/roofRoofScalaX/target/scala-2.13/roofroofscalax_2.13-0.1.0-SNAPSHOT.jar ...[0m
 [0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	ReaderHttp$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/wishmbp/dev/mfec/target/scala-2.13/classes/ReaderHttp$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	hwReadRssFeed$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/wishmbp/dev/mfec/target/scala-2.13/classes/hwReadRssFeed$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/wishmbp/dev/roofRoofScalaX/target/scala-2.13/classes/hwReadRssFeed$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	hwReadRssFeed$delayedInit$body.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/wishmbp/dev/mfec/target/scala-2.13/classes/hwReadRssFeed$delayedInit$body.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	ReaderHttp$delayedInit$body.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/wishmbp/dev/mfec/target/scala-2.13/classes/ReaderHttp$delayedInit$body.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	MainProgram$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/wishmbp/dev/mfec/target/scala-2.13/classes/MainProgram$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	ReaderHttp.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/wishmbp/dev/mfec/target/scala-2.13/classes/ReaderHttp.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/wishmbp/dev/roofRoofScalaX/target/scala-2.13/classes/hwReadRssFeed$delayedInit$body.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	hwReadRssFeed.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/wishmbp/dev/mfec/target/scala-2.13/classes/hwReadRssFeed.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	MainProgram.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/wishmbp/dev/mfec/target/scala-2.13/classes/MainProgram.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	MainProgram$delayedInit$body.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	  /Users/wishmbp/dev/mfec/target/scala-2.13/classes/MainProgram$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/wishmbp/dev/roofRoofScalaX/target/scala-2.13/classes/hwReadRssFeed.class[0m
 [0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

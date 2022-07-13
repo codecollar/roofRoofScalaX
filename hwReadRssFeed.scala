@@ -27,7 +27,6 @@ object hwReadRssFeed extends App {
   val searchDatetime: String = searchDatetimeNow.toString(format)
   val fileName: String = lowerCaseSearchTerm + "-" + searchDatetime + ".txt"
 
-  var feeds: String = ""
   val writer = new PrintWriter(new File(fileName))
   for {
     provider <- listOfProvider
